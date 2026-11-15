@@ -1,9 +1,9 @@
 // PERSONAL SETTINGS — add your real links before publishing.
 // Leave a value as an empty string if you do not have that link yet.
 const PROFILE = {
-  email: "",
+  email: "abdulbasit20081022@gmail.com",
   linkedin: "",
-  github: "",
+  github: "https://github.com/basitabdul-tech/basitabdul.github.io",
   cv: "assets/Abdul-Basit-CV-PLACEHOLDER.pdf"
 };
 
